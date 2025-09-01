@@ -20,3 +20,16 @@ Este repositório contém os exercícios realizados durante as aulas de **Banco 
 - Modelagem relacional (entidades e relacionamentos)
 
 
+## 🤝 Contribuição
+
+Este repositório é voltado para fins educacionais e para uso pessoal. 
+
+## 📌 Observações
+
+- Todos os exercícios foram realizados durante as aulas de Banco de Dados.
+- O conteúdo pode ser atualizado conforme novas aulas ou correções.
+
+---
+
+**Desenvolvido com 💻 por [Seu Nome Aqui]**
+
