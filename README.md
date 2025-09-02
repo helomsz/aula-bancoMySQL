@@ -25,6 +25,9 @@ Este repositório contém os exercícios realizados durante as aulas de **Banco 
 Este repositório é voltado para fins educacionais e para uso pessoal. 
 <br>
 
+
+
+
 > 📌 Observações
 
 > - Todos os exercícios foram realizados durante as aulas de Banco de Dados.
