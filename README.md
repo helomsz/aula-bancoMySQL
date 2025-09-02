@@ -31,5 +31,5 @@ Este repositório é voltado para fins educacionais e para uso pessoal.
 
 ---
 
-**Desenvolvido com 💻 por [Seu Nome Aqui]**
+**Desenvolvido com 💻 por Heloisa Militão**
 
